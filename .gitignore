@@ -1,0 +1,9 @@
+.idea
+.env
+keycloak.env
+
+backups/*
+!backups/.gitkeep
+
+providers/*
+!providers/.gitkeep
