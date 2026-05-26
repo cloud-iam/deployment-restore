@@ -39,7 +39,7 @@ Optional extras:
 ## 4. Start
 
 ```sh
-docker compose up -d
+docker compose up
 ```
 
 Keycloak is served on http://localhost:8080. Sign in with the admin credentials from your Cloud-IAM deployment.
